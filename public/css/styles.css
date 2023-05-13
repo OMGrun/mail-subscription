@@ -36,3 +36,16 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+.picture
+{
+  max-height: 150px;
+  border-radius: 25px;
+  float: left;
+  margin-bottom: 15px;
+}
+
+.signup-text
+{
+  margin-top: 40px;
+}
